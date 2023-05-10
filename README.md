@@ -1,5 +1,3 @@
-# arcgis_with_arcpy
-
 Some functions with arcpy in ArcGIS PRO Notebooks
 
 - Create a Feature Class in ArcGIS PRO with arcpy
